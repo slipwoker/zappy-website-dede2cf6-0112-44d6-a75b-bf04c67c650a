@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://little-italy-dede2cf6.zappy5.app/sitemap.xml
